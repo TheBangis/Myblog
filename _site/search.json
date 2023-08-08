@@ -44,15 +44,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Babangida Sani",
+    "title": "About",
     "section": "",
-    "text": "Arewa Data Science"
+    "text": "I’m Babangida Sani, a passionate computer scientist. I embarked on my journey at Bayero University Kano, where I acquired a degree in Computer Science. My path led me to Arewa Data Science Academy, where I ignited my machine learning career. Through my blog, I share insights from this transformative journey, turning knowledge into action for a data-driven world."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Babangida Sani",
     "section": "",
-    "text": "The Birth And Concepts of Machine Learning\n\n\n\nAI\n\n\nML\n\n\nDeep Learning\n\n\n\n\n\n\n\nBabangida Sani\n\n\nJul 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Conda Activate Not Working On Windows\n\n\n\nCondo\n\n\nWindows\n\n\n\n\n\n\n\nBabangida Sani\n\n\nAug 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Birth And Concepts of Machine Learning\n\n\n\nAI\n\n\nML\n\n\nDeep Learning\n\n\n\n\n\n\n\nBabangida Sani\n\n\nJul 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/conda_activate/index.html",
+    "href": "posts/conda_activate/index.html",
+    "title": "Conda Activate Not Working On Windows",
+    "section": "",
+    "text": "To use conda first download and install conda on your system. After the installation Open a terminal or command prompt on your system to create a new conda environment.\nTo create a new conda environment type:\nconda create -na myenvName pythonVersion\n\n# Acitivate \nconda activate envName\nWhen you install machine learning library on your environment and the installation was success but it did not work on your environment first thing to do is to make sure you select the right environment if yes, restart the environment and if it persist maybe you don’t have an activate environment.\nTo activate environment open your terminal and type\nconda activate envName\nthen check and see if it is active or not by typing the commands below.\necho $CONDA_DEFAULT_ENV\nconda info --env\nAll your environments will display on the terminal and the activate one will come with asterisk at the left of it. See Fig1\n\nIn case the asterisk is not there it mean you are not working on any active environment, and you need to initial your conda by running this command in your terminal.\nconda init\nRestart terminal/cmd\nand run\nconda activete envName\nThis work for me and I’m certain it would work for you."
   }
 ]
