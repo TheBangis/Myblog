@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Babangida Sani",
-    "section": "",
-    "text": "Arewa Data Science"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Babangida Sani",
-    "section": "",
-    "text": "The Birth And Concepts of Machine Learning\n\n\n\nAI\n\n\nML\n\n\nDeep Learning\n\n\n\n\n\n\n\nBabangida Sani\n\n\nJul 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/blog/index.html",
-    "href": "posts/blog/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "posts/history-of-ai/index.html",
     "href": "posts/history-of-ai/index.html",
     "title": "The Birth And Concepts of Machine Learning",
@@ -75,5 +40,19 @@
     "title": "The Birth And Concepts of Machine Learning",
     "section": "Conclusion",
     "text": "Conclusion\nmachine learning has a rich history that dates back to the mid-20th century when researchers first began exploring the concept of artificial intelligence. Over the decades, significant advancements in computing power and data storage have led to the development of sophisticated machine learning algorithms and techniques that can analyze vast amounts of data, learn patterns, and make predictions.\nTo get started with machine learning, one should have a strong foundation in mathematics and statistics, particularly linear algebra, calculus, and probability theory. Additionally, it is essential to have programming skills, particularly in languages such as Python, R, machine learning frameworks and libraries are written in these languages.\nThere are several techniques in machine learning, including supervised learning, unsupervised learning, reinforcement learning, and semi-supervised learning.\nHave fun, Thank you!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Babangida Sani",
+    "section": "",
+    "text": "Arewa Data Science"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Babangida Sani",
+    "section": "",
+    "text": "The Birth And Concepts of Machine Learning\n\n\n\nAI\n\n\nML\n\n\nDeep Learning\n\n\n\n\n\n\n\nBabangida Sani\n\n\nJul 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
