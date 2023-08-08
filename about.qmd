@@ -1,19 +1,19 @@
 ---
-title: "Babangida Sani"
+title: "About"
 image: babangida.jpg
 about:
-  template: trestles
+  template: jolla
   links:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/bangiss_
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/babangida-sani-4279a7186/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/TheBangis
 
 ---
+I'm Babangida Sani, a passionate computer scientist. I embarked on my journey at Bayero University Kano, where I acquired a degree in Computer Science. My path led me to Arewa Data Science Academy, where I ignited my machine learning career. Through my blog, I share insights from this transformative journey, turning knowledge into action for a data-driven world.
 
-Arewa Data Science 
