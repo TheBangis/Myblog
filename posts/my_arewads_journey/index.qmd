@@ -1,0 +1,22 @@
+---
+title: "My Journey Through The Arewa Data Science Fellowship"
+author: "Babangida Sani"
+date:  "2023-08-14"
+categories: [ArewaDS]
+image: "ml_certificate.PNG"
+---
+Alhamdulillah, I am excited to share my journey through the Arewa Data Science Fellowship, an enriching experience that ignited my passion for both technical and soft skills. This transformative journey has been marked by dedication, resilience, and unwavering commitment to growth.
+
+The fellowship wasn't solely about Data Science and Machine Learning; it was a full immersion into a realm where data-driven innovation converges with vital soft skills. From creating my personal blog post site using Quarto to mastering the art of managing and showcasing my abilities on GitHub, I learned to not just embrace my skills but to effectively market them.
+
+The fellowship took us far beyond Data Science and Machine Learning boundaries. Amid the various courses on Coursera, two standout courses reshaped our approach to learning and academic writing: 'Learning How to Learn' and 'Scientific Writing.'
+
+The peak of this journey was my participation in the Cohere AI hackathon, where my team secured second position and a prize of eight hundred dollars. This achievement underscored the power of collaboration and the tangible outcomes that emerge from combining skillsets and ideas.
+
+This journey was not without its challenges, but with guidance from exceptional mentors especially Dr. Shamsuddeen H Muhmmad, Dr. Idirs Abdulmumin, and Dr. Ibrahim Sa'id. I was empowered to overcome obstacles and surpass my own expectations. Their unwavering support and guidance were instrumental in shaping my perspective and propelling me forward.
+
+Before joining the Arewa Data Science Fellowship, virtual classes were not my preferred mode of learning. However, this experience shifted my mindset entirely. The online platform seamlessly facilitated engagement, collaboration, and active learning, debunking any prior reservations I held.
+
+As I reflect on my fellowship completion, I am not just celebrating the acquisition of new skills; I am celebrating a profound transformation that has redefined my capabilities and outlook. The Arewa Data Science Fellowship has empowered me to embrace change, adapt with agility, and thrive in a dynamic world.
+
+With gratitude in my heart and a newfound zeal for continuous growth, I step into the future. The journey has been extraordinary, and the path ahead holds endless promise. Thank you, Arewa Data Science Academy, for being the catalyst of this remarkable journey.
