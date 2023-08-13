@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/my_arewads_journey/index.html",
       "/posts/conda_activate/index.html",
       "/posts/history-of-ai/index.html"
     ]
